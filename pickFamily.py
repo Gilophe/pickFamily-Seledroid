@@ -16,6 +16,10 @@ youtube = "https://youtube.com/@iewil"
 hosts = [
 "https://litepick.io/",
 "https://tronpick.io/",
+"https://dogepick.io/",
+"https://polpick.io/",
+"https://solpick.io/",
+"https://suipick.io/",
 "https://bnbpick.io/",
 "https://tonpick.game/"
 ]
