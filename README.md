@@ -18,8 +18,8 @@ hosts = [
 "https://tronpick.io/",
 "https://bnbpick.io/",
 "https://tonpick.game/",
-"xxx", #new url
-"xxx" #new url
+"https://suipick.io",
+"https://solpick.io/"
 ]
 ```
 
